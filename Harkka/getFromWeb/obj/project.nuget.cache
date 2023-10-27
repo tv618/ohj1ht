@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "efSToMuH+3u5iBcEmFsp6BffsfgvdOF3WYGU3wBO0yzbefMr1UX1UKwLfvJz3rbOUA9B3NS3k27VwWIegga3ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Theod\\RiderProjects\\demot\\Harkka\\getFromWeb\\getFromWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Theod\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}

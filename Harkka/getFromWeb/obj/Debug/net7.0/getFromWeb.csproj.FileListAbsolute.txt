@@ -1,0 +1,17 @@
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\obj\Debug\net7.0\getFromWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\obj\Debug\net7.0\getFromWeb.AssemblyInfoInputs.cache
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\obj\Debug\net7.0\getFromWeb.AssemblyInfo.cs
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\obj\Debug\net7.0\getFromWeb.csproj.CoreCompileInputs.cache
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\bin\Debug\net7.0\getFromWeb.exe
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\bin\Debug\net7.0\getFromWeb.deps.json
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\bin\Debug\net7.0\getFromWeb.runtimeconfig.json
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\bin\Debug\net7.0\getFromWeb.dll
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\bin\Debug\net7.0\getFromWeb.pdb
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\obj\Debug\net7.0\getFromWeb.csproj.AssemblyReference.cache
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\obj\Debug\net7.0\getFromWeb.csproj.CopyComplete
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\obj\Debug\net7.0\getFromWeb.dll
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\obj\Debug\net7.0\refint\getFromWeb.dll
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\obj\Debug\net7.0\getFromWeb.pdb
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\obj\Debug\net7.0\getFromWeb.genruntimeconfig.cache
+C:\Users\Theod\RiderProjects\demot\Harkka\getFromWeb\obj\Debug\net7.0\ref\getFromWeb.dll

@@ -1,0 +1,17 @@
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\bin\Debug\net7.0\Map.exe
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\bin\Debug\net7.0\Map.deps.json
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\bin\Debug\net7.0\Map.runtimeconfig.json
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\bin\Debug\net7.0\Map.dll
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\bin\Debug\net7.0\Map.pdb
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\obj\Debug\net7.0\Map.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\obj\Debug\net7.0\Map.AssemblyInfoInputs.cache
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\obj\Debug\net7.0\Map.AssemblyInfo.cs
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\obj\Debug\net7.0\Map.csproj.CoreCompileInputs.cache
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\obj\Debug\net7.0\Map.dll
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\obj\Debug\net7.0\refint\Map.dll
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\obj\Debug\net7.0\Map.pdb
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\obj\Debug\net7.0\Map.genruntimeconfig.cache
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\obj\Debug\net7.0\ref\Map.dll
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\obj\Debug\net7.0\Map.csproj.AssemblyReference.cache
+C:\Users\Theod\RiderProjects\demot\Harkka\Map\obj\Debug\net7.0\Map.csproj.CopyComplete
