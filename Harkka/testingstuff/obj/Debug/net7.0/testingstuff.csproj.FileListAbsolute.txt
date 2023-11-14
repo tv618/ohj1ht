@@ -1,0 +1,14 @@
+C:\Users\Theod\RiderProjects\demot\Harkka\testingstuff\bin\Debug\net7.0\testingstuff.exe
+C:\Users\Theod\RiderProjects\demot\Harkka\testingstuff\bin\Debug\net7.0\testingstuff.deps.json
+C:\Users\Theod\RiderProjects\demot\Harkka\testingstuff\bin\Debug\net7.0\testingstuff.runtimeconfig.json
+C:\Users\Theod\RiderProjects\demot\Harkka\testingstuff\bin\Debug\net7.0\testingstuff.dll
+C:\Users\Theod\RiderProjects\demot\Harkka\testingstuff\bin\Debug\net7.0\testingstuff.pdb
+C:\Users\Theod\RiderProjects\demot\Harkka\testingstuff\obj\Debug\net7.0\testingstuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theod\RiderProjects\demot\Harkka\testingstuff\obj\Debug\net7.0\testingstuff.AssemblyInfoInputs.cache
+C:\Users\Theod\RiderProjects\demot\Harkka\testingstuff\obj\Debug\net7.0\testingstuff.AssemblyInfo.cs
+C:\Users\Theod\RiderProjects\demot\Harkka\testingstuff\obj\Debug\net7.0\testingstuff.csproj.CoreCompileInputs.cache
+C:\Users\Theod\RiderProjects\demot\Harkka\testingstuff\obj\Debug\net7.0\testingstuff.dll
+C:\Users\Theod\RiderProjects\demot\Harkka\testingstuff\obj\Debug\net7.0\refint\testingstuff.dll
+C:\Users\Theod\RiderProjects\demot\Harkka\testingstuff\obj\Debug\net7.0\testingstuff.pdb
+C:\Users\Theod\RiderProjects\demot\Harkka\testingstuff\obj\Debug\net7.0\testingstuff.genruntimeconfig.cache
+C:\Users\Theod\RiderProjects\demot\Harkka\testingstuff\obj\Debug\net7.0\ref\testingstuff.dll
